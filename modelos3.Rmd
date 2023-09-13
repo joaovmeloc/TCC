@@ -1,0 +1,245 @@
+---
+title: "Modelos Preditivos - TCC2"
+author: "João Victor Melo C. Mendes"
+date: "2023-09-05"
+output: html_document
+---
+
+# OBJETIVO 
+
+Prever qual categoria (popularidade) que as músicas estão inseridadas a partir das outras variáveis. 
+
+Nos testes abaixos, serão utilizadas duas categorias, a fim de calcular a acurácia, sensibilidade, especificidade, valor preditivo positivo e negativo e a estatística F1, além das previsões de cada modelo.
+
+# CONJUNTO DE DADOS
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(spotifyr)
+library(tidyverse)
+library(ggridges)
+library(httpuv)
+library(dplyr)
+library(purrr)
+library(knitr)
+library(lubridate)
+library(kableExtra)
+library(hms)
+library(factoextra)
+library(GGally)
+library(readxl)
+library(ggplot2)
+library(wordcloud2)
+library(gghighlight)
+library(patchwork)
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+# banco de dados apenas com variáveis numéricas
+
+dados <- read_xlsx("C:/Users/Joao victor melo/OneDrive/Área de Trabalho/UNB/UnB_2023.1/TCC2/dados_topmusicas.xlsx")
+
+dados <- dados %>% 
+  as.data.frame() %>%
+  mutate(key = recode(as.character(key),
+                      "0" = "C",
+                      "1" = "Cs",
+                      "2" = "D",
+                      "3" = "Ds",
+                      "4" = "E",
+                      "5" = "F",
+                      "6" = "Fs",
+                      "7" = "G",
+                      "8" = "Gs",
+                      "9" = "A",
+                      "10" = "As",
+                      "11" = "B")) %>% 
+  mutate(duracao = as_hms(round(duracao / 1000)))
+
+
+dados <- dados %>%
+  select(-c(1:8))
+
+dados <- as.data.frame(dados)
+head(dados, 10)
+```
+
+
+
+
+
+\newpage
+# MODELOS DE PREVISÃO 
+
+## 2 Categorias
+
+### Random Forest
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+
+# adicionando coluna das categorias
+
+# Definir os intervalos e os rótulos das categorias
+intervalos <- c(0, 75, 100)
+categoria <- c("Não Popular", "Popular")
+
+# Aplicar a transformação
+dados$categoria <- cut(dados$popularidade, breaks = intervalos, labels = categoria, include.lowest = TRUE)
+
+
+head(dados, 5)
+
+
+# utilizando variáveis dummy
+
+
+dummy_data <- model.matrix(~ key -1, data = dados)
+dummy_data <- as.data.frame(dummy_data)
+
+dummy_data2 <- model.matrix(~ genero_principal -1, data = dados)
+dummy_data2 <- as.data.frame(dummy_data2)
+
+
+
+# juntando os dados
+
+dadosmodelo <- cbind(dummy_data, dados) %>%
+  select(-key)
+
+
+dadosmodelo <- cbind(dummy_data2, dadosmodelo) %>%
+  select(-genero_principal, -popularidade)
+
+head(dadosmodelo,10)
+names(dadosmodelo)
+
+```
+
+
+
+\newpage
+#### Modelo Ajustado
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+
+# MODELOS 
+
+# modelo random forest
+library(randomForest)
+
+
+# Dividir o banco de dados em conjunto de treinamento e conjunto de teste
+set.seed(2609)  # Definir a semente para reprodutibilidade
+indices_treinamento <- sample(1:nrow(dadosmodelo), 0.8 * nrow(dadosmodelo))  # 80% dos dados para treinamento
+conjunto_treinamento <- dadosmodelo[indices_treinamento, ]
+conjunto_teste <- dadosmodelo[-indices_treinamento, ]
+
+modelo_rf <- randomForest(categoria ~ ., data = conjunto_treinamento)
+modelo_rf
+
+# Fazer previsões para o conjunto de teste
+# retirar antes a variavel categoria para realizar as previsoes no conjunto teste
+
+dados_mod_rf_teste <- conjunto_teste %>%
+  select(-c("categoria"))
+
+previsoes_rf <- predict(modelo_rf, newdata = dados_mod_rf_teste)
+
+names(conjunto_treinamento)
+
+
+```
+
+### Rpart
+```{r}
+library(rpart)
+
+modelo_rpart <- rpart(categoria ~ ., data = conjunto_treinamento)
+modelo_rpart
+
+predict(modelo_rpart)
+
+head(dados_mod_rf_teste)
+```
+
+
+
+```{r}
+
+library(rattle)
+
+fancyRpartPlot(modelo_rpart)
+
+
+```
+
+
+#### Matriz de Confusão 
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+# Exemplo de dados de resultados preditos e verdadeiros
+valores_reais <- as.vector(conjunto_teste$categoria)
+valores_preditos <- as.vector(previsoes_rf)
+
+# Obter os valores únicos das classes
+classes <- unique(c(valores_preditos, valores_reais))
+
+# Inicializar a matriz de confusão com zeros
+conf_matrix <- matrix(0, nrow = length(classes), ncol = length(classes), dimnames = list(classes, classes))
+
+# Preencher a matriz de confusão com contagens
+for (i in 1:length(valores_reais)) {
+  conf_matrix[valores_reais[i], valores_preditos[i]] <- conf_matrix[valores_reais[i], valores_preditos[i]] + 1
+}
+
+# Visualizar a matriz de confusão
+print(conf_matrix)
+matriz_conf <- conf_matrix[c(2,1), c(2, 1)]
+matriz_conf
+
+
+```
+
+
+#### Medidas
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+
+
+# Exemplo de matriz de confusão
+matriz_conf
+
+# Calculando as medidas
+acuracia_rf <- round(sum(diag(matriz_conf)) / sum(matriz_conf),2)
+sensibilidade_rf <- round(matriz_conf[2, 2] / sum(matriz_conf[, 2]),2)
+especificidade_rf <- round(matriz_conf[1, 1] / sum(matriz_conf[, 1]),2)
+vpp_rf <- round(matriz_conf[2,2] / sum(matriz_conf[2,]),2)
+vpn_rf <- round(matriz_conf[1,1] / sum(matriz_conf[1,]),2)
+f1_score_rf <- round(2 * ((vpp_rf*sensibilidade_rf) / (vpp_rf+sensibilidade_rf)),2)
+
+# Visualizando as medidas
+
+# quanto o modelo está acertando 
+print(paste("Acurácia:", acuracia_rf))
+
+# das músicas populares, quantas foram corretamente identificadas?
+print(paste("Sensibilidade:", sensibilidade_rf))
+
+# das músicas não populares, quantas foram corretamente identificadas?
+print(paste("Especificidade:", especificidade_rf))
+
+# das músicas classficadas como populares, quantas foram corretamente identificadas?
+print(paste("Valor Predito Positivo (VPP):", vpp_rf))
+
+# das músicas classificadas como não populares, quantas foram corretamente identificadas?
+print(paste("Valor Predito Negativo (VPN):", vpn_rf))
+
+# F1 score (usado quando vpp e sensibildiade tem a mesma importância)
+print(paste("Estatística F1:", f1_score_rf))
+
+
+
+```
+
+
+
+
