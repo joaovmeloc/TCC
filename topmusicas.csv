@@ -281,7 +281,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5lhcHMDQpNwhM62lSOrvLf;Chris Jedi;Ahora Dice;latin hip hop, reggaeton, reggaeton flow, trap latino, urbano latino;Reggaeton;Ahora Dice;Fs;270493;70;0,255;0,158;0,129;0;0,691;143,982;4;-5,414;0,704;0,427
 0alSPoUfrGb0RdVVG4Lf3n;KAROL G;Ahora Me Llama;reggaeton, reggaeton colombiano, urbano latino;Reggaeton;Unstoppable;G;235226;67;0,00949;0,041;0,0932;3,98E-05;0,573;134,979;4;-5,716;0,646;0,109
 5qP24CrDI0rmY5zwRvUfzU;Quevedo;AHORA QUÉ;rap canario, urbano latino;Rap;DONDE QUIERO ESTAR;D;171428;80;0,212;0,0943;0,128;0;0,765;101,545;3;-5,457;0,447;0,542
-5vC8UAOHeG95ehRzZChniB;L7NNON;Ai Preto;funk carioca, funk rj, pop rap brasileiro;Pop;Ai Preto;Fs;131583;75;0,537;0,245;0,0993;0;0,57;129,947;4;-5,149;0,953;0,834
+5vC8UAOHeG95ehRzZChniB;L7NNON;Ai Preto;funk carioca, funk rj, pop rap brasileiro;Funk;Ai Preto;Fs;131583;75;0,537;0,245;0,0993;0;0,57;129,947;4;-5,149;0,953;0,834
 3u2NGFCIe5Ynxv8djbpVP8;Ninho;Aïcha;french hip hop, pop urbaine;Pop;Jefe;Ds;219314;56;0,324;0,136;0,121;2,87E-05;0,622;98,079;4;-6,565;0,843;0,442
 3MhNgzZwFtUF6jSr6pRSkW;Avicii;Ain't A Thing (feat. Bonn);dance pop, edm, pop, pop dance, pop rap;Pop;TIM;A;183660;45;0,544;0,0552;0,0538;0;0,423;170,162;4;-7,286;0,454;0,245
 6NJfIydBMYrXvlaXsFxmc8;Headie One;Ain't It Different (feat. AJ Tracey & Stormzy);uk hip hop;HipHop;Ain't It Different (feat. AJ Tracey & Stormzy);E;196363;59;0,00988;0,216;0,109;1,45E-05;0,569;77,052;4;-6,805;0,767;0,524
@@ -683,7 +683,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 7BEPdOI0neT6p7PnLViqmH;Morat;Bajo La Mesa;colombian pop;Pop;Bajo La Mesa;Fs;157080;63;0,238;0,0739;0,128;0;0,624;90,983;4;-5,398;0,716;0,783
 0tPShxf8VJUH6RBDEP3tVB;Wiz Khalifa;Bake Sale (feat. Travis Scott);dance pop, hip hop, pittsburgh rap, pop rap, rap, southern hip hop, trap;Pop;Bake Sale (feat. Travis Scott);Ds;238533;44;0,144;0,22;0,104;0;0,551;139,934;4;-5,198;0,864;0,38
 48Ll1C6qAnP2UjnopQDh4a;Mc Anjim;Bala Love;funk bh, funk carioca, funk mtg, funk viral, rap mineiro;Funk;Bala Love;A;221538;65;0,807;0,0507;0,19;0,101;0,318;86,453;5;-8,887;0,628;0,492
-2qmG7dokbGpDGD0T5wORWt;Matheus Fernandes;Balanço da Rede;arrocha, forro, funk carioca, sertanejo pop;Pop;Balanço da Rede;Fs;166435;75;0,193;0,033;0,0853;0;0,796;140,072;4;-4,611;0,764;0,924
+2qmG7dokbGpDGD0T5wORWt;Matheus Fernandes;Balanço da Rede;arrocha, forro, funk carioca, sertanejo pop;Funk;Balanço da Rede;Fs;166435;75;0,193;0,033;0,0853;0;0,796;140,072;4;-4,611;0,764;0,924
 6Zisja44KqMZj4GM4UY6Yv;6LACK;Balenciaga Challenge (feat. Offset);atl hip hop, hip hop, melodic rap, pop, r&b, rap, trap;Pop;East Atlanta Love Letter;F;187216;47;0,0895;0,419;0,279;6,66E-06;0,394;142,961;4;-9,828;0,744;0,658
 3UP4tYlgEes6TajBXh8faH;Post Malone;Ball For Me;dfw rap, melodic rap, rap;Rap;beerbongs & bentleys;Fs;206266;40;0,511;0,296;0,0799;0;0,527;133,953;4;-4,213;0,775;0,474
 0cu0rhnlCnJ7JIeHRiLpj3;DaBaby;Ball If I Want To;north carolina hip hop, rap, trap;HipHop;Ball If I Want To;Cs;112546;68;0,161;0,457;0,0728;0;0,669;139,949;4;-5,049;0,902;0,628
@@ -1056,7 +1056,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 6qj02zSeEJGWZ4c0dn5QzJ;Harry Styles;Boyfriends;pop;Pop;Harry's House;C;194543;71;0,935;0,0357;0,108;0;0,202;118,029;4;-10,976;0,417;0,323
 5o4yGlG0PfeVUa6ClIyOxq;Charli XCX;Boys;art pop, candy pop, dance pop, electropop, metropopolis, pop, post-teen pop, uk pop;Pop;Boys;D;162585;55;0,0646;0,0625;0,0505;0,000289;0,545;139,943;4;-5,192;0,867;0,525
 6FJN9EiWE5Fh20WYrHfB5N;will.i.am;Boys & Girls;dance pop, pop, pop rap, post-teen pop;Pop;Boys & Girls;B;241160;47;0,324;0,0533;0,0894;0,0028;0,741;107,998;4;-6,385;0,898;0,638
-35COLcFjvONwVv6jkG23gI;Anitta;Boys Don't Cry;funk pop, funk rj, pagode baiano, pop nacional;Pop;Boys Don't Cry;F;136011;58;0,00178;0,0372;0,113;0;0,842;164,163;4;-4,86;0,589;0,657
+35COLcFjvONwVv6jkG23gI;Anitta;Boys Don't Cry;funk pop, funk rj, pagode baiano, pop nacional;Funk;Boys Don't Cry;F;136011;58;0,00178;0,0372;0,113;0;0,842;164,163;4;-4,86;0,589;0,657
 0vQcyuMEfRBd21ojZ62N2L;Dua Lipa;Boys Will Be Boys;dance pop, pop, uk pop;Pop;Future Nostalgia;Ds;166266;57;0,408;0,0353;0,098;0;0,486;125,021;4;-5,954;0,768;0,519
 4Ox0k2E4KWEeO3lIp15Cx3;Damso;BPM;belgian hip hop, french hip hop, pop urbaine, rap belge, rap conscient;Pop;QALF infinity;G;182533;53;0,291;0,539;0,105;0,0214;0,447;160,065;4;-12,241;0,852;0,36
 2WlZuBDgLfT7Kc0admhFdg;Luísa Sonza;BRABA;funk carioca, pop nacional;Pop;BRABA;C;129782;60;0,181;0,0615;0,0784;2,55E-05;0,689;144,015;4;-5,113;0,811;0,663
@@ -1451,7 +1451,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 7thTA3hqO2MgOlzo0rPInX;Diplo;Color Blind;edm, electro house, house, moombahton, pop, pop dance, tropical house;Pop;Color Blind;F;177480;56;0,0126;0,186;0,503;3,76E-05;0,786;87,023;4;-5,396;0,469;0,409
 1TnUURhehaoMWKAqQtirm6;Halsey;Colors;dance pop, electropop, etherpop, indie poptimism, pop;Pop;BADLANDS;Cs;249499;64;0,0534;0,0617;0,092;0;0,812;100,02;4;-4,809;0,512;0,521
 76IVpz47q3ghkxoUeTTEKb;Samra;COLT;german hip hop;HipHop;COLT;A;179812;48;0,345;0,428;0,0981;0;0,53;90,093;4;-6,168;0,544;0,184
-2bPtwnrpFNEe8N7Q85kLHw;Anitta;Combatchy (feat. MC Rebecca);funk pop, funk rj, pagode baiano, pop nacional;Pop;Combatchy (feat. MC Rebecca);Cs;157600;58;0,383;0,0809;0,0197;0,000374;0,73;150,134;4;-3,032;0,826;0,605
+2bPtwnrpFNEe8N7Q85kLHw;Anitta;Combatchy (feat. MC Rebecca);funk pop, funk rj, pagode baiano, pop nacional;Funk;Combatchy (feat. MC Rebecca);Cs;157600;58;0,383;0,0809;0,0197;0,000374;0,73;150,134;4;-3,032;0,826;0,605
 2Y0wPrPQBrGhoLn14xRYCG;Juice WRLD;Come & Go (with Marshmello);chicago rap, melodic rap;Rap;Legends Never Die;C;205484;75;0,0172;0,0657;0,158;0;0,814;144,991;4;-5,181;0,625;0,535
 161nSMdnYYUTEOhipcA7JF;John Newman;Come And Get It;dance pop;Pop;Revolve (The Deluxe Edition);Cs;184107;49;0,00273;0,0423;0,115;8,94E-05;0,718;109,003;4;-4,861;0,649;0,801
 6cEguiQecbXrFlsnMi2ysr;PARTYNEXTDOOR;Come and See Me (feat. Drake);pop, r&b, rap, toronto rap, urban contemporary;Pop;PARTYNEXTDOOR 3 (P3);D;235477;69;0,0511;0,0623;0,087;2,57E-06;0,347;84,957;4;-10,265;0,77;0,0583
@@ -1758,7 +1758,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 0aTiUssEOy0Mt69bsavj6K;TOOL;Descending;alternative metal, alternative rock, art rock, nu metal, progressive metal, progressive rock, rock;Rock;Fear Inoculum;As;817832;52;0,00219;0,0495;0,107;0,769;0,611;172,606;1;-9,571;0,33;0,241
 56f5qnyAlZdlz8wrUDA50h;Mau y Ricky;Desconocidos;latin pop, pop venezolano, reggaeton, urbano latino;Reggaeton;Para Aventuras y Curiosidades;G;204563;70;0,118;0,179;0,212;4,21E-06;0,753;174,107;4;-4,891;0,719;0,675
 1pWYnQIlqxTh5bxuPmTG4E;Thalia;Desde Esa Noche (feat. Maluma);dance pop, latin pop, mexican pop;Pop;Latina;B;227693;62;0,171;0,0532;0,0677;0;0,929;95,012;4;-0,739;0,78;0,837
-4SIBZgMomGFnrIWjmq7Np8;L7NNON;Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho);funk carioca, funk rj, pop rap brasileiro;Pop;Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho);Fs;115846;65;0,275;0,409;0,142;0;0,673;129,967;4;-6,298;0,93;0,95
+4SIBZgMomGFnrIWjmq7Np8;L7NNON;Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho);funk carioca, funk rj, pop rap brasileiro;Funk;Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho);Fs;115846;65;0,275;0,409;0,142;0;0,673;129,967;4;-6,298;0,93;0,95
 5NU40QTlXrDUJzDBdv79bg;Justin Bieber;Deserve You;canadian pop, pop;Pop;Justice;G;187238;62;0,0314;0,0771;0,112;0;0,633;89,934;4;-7,831;0,677;0,409
 6ZOcbKub95XSDESsKKuH41;Rauw Alejandro;Desesperados;puerto rican pop, trap latino, urbano latino;Pop;Desesperados;Cs;224996;76;0,356;0,0783;0,0878;0,00125;0,694;90,02;4;-3,35;0,869;0,511
 1LXbv9jiTtdBdHadZ317Gt;Lil Pump;Designer;emo rap, miami hip hop, rap, trap, vapor trap, viral rap;HipHop;Designer;Fs;144560;40;0,205;0,344;0,248;0;0,484;160,052;4;-9,159;0,864;0,534
@@ -1820,7 +1820,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5u5MvmVtitax9R1Mxh3reC;Ozuna;Dile Que Tu Me Quieres;puerto rican pop, reggaeton, trap latino, urbano latino;Reggaeton;Odisea;Cs;226520;69;0,0864;0,0526;0,0727;3,73E-06;0,757;88,006;4;-4,959;0,773;0,858
 3kG1jgWIDmjJkXhOiOmioO;Bad Bunny;Dime Si Te Acuerdas;reggaeton, trap latino, urbano latino;Reggaeton;Dime Si Te Acuerdas;Cs;187272;67;0,486;0,0623;0,163;0;0,595;131,96;4;-9,082;0,74;0,316
 1rLkzFZdokhx6Wcs80uvnw;BTS;Dimple;k-pop, k-pop boy group;K-pop;Love Yourself 結 'Answer';F;196776;60;0,14;0,0757;0,289;0;0,844;134,872;4;-4,694;0,612;0,652
-78Q2gghkt8iLJ7J0Uc4QYb;LUDMILLA;Din Din Din (Participação especial de MC Pupio e MC Doguinha);funk carioca, funk pop, funk rj, pagode baiano, pop nacional;Pop;Din Din Din (Participação especial de MC Pupio e MC Doguinha);F;184607;46;0,214;0,23;0,0527;0;0,622;140,039;4;-5,841;0,869;0,887
+78Q2gghkt8iLJ7J0Uc4QYb;LUDMILLA;Din Din Din (Participação especial de MC Pupio e MC Doguinha);funk carioca, funk pop, funk rj, pagode baiano, pop nacional;Funk;Din Din Din (Participação especial de MC Pupio e MC Doguinha);F;184607;46;0,214;0,23;0,0527;0;0,622;140,039;4;-5,841;0,869;0,887
 2E4pGT15X6ElliPQIxSGaq;Håkan Hellström;Din tid kommer;classic swedish pop, gothenburg indie, swedish indie rock, swedish pop;Rock;Din tid kommer;C;281890;39;0,000121;0,0451;0,136;0,000483;0,852;127,962;4;-5,487;0,495;0,466
 22mQXNE0nCuWq4yOwcadIn;Jennifer Lopez;Dinero;dance pop, pop, pop rap, urban contemporary;Pop;Dinero;Gs;213750;52;0,41;0,342;0,292;7,61E-06;0,881;127,759;4;-2,528;0,721;0,643
 2Wkm4JBcIV2uSuu4qlbqFN;BTS;Dionysus;k-pop, k-pop boy group;K-pop;MAP OF THE SOUL : PERSONA;G;249215;64;0,04;0,107;0,319;0;0,91;176,084;4;-2,769;0,502;0,588
@@ -1970,7 +1970,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5unjCay0kUjuej5ebn4nS4;Pharrell Williams;Down In Atlanta;hip hop, pop, pop rap;Pop;Down In Atlanta;G;164041;74;0,337;0,212;0,0658;0,000153;0,819;83,154;3;-5,173;0,851;0,903
 1LxKKYsJNPeBdOwdudsJzv;Yo Gotti;Down In the DM;dirty south rap, gangster rap, hip hop, memphis hip hop, pop rap, rap, southern hip hop, tennessee hip hop, trap, viral rap;Pop;The Art of Hustle (Deluxe);Cs;182733;52;0,00157;0,0489;0,0887;2,10E-05;0,662;152,927;4;-7,016;0,776;0,324
 4etKC4ngPKsQDHUMnYgV3A;KSI;Down Like That (feat. Rick Ross, Lil Baby & S-X);uk hip hop;HipHop;Down Like That (feat. Rick Ross, Lil Baby & S-X);Cs;175462;51;0,353;0,286;0,247;0;0,8;139,472;4;-4,956;0,591;0,592
-3Ga6eKrUFf12ouh9Yw3v2D;Anitta;Downtown;funk pop, funk rj, pagode baiano, pop nacional;Pop;Downtown;E;193456;69;0,18;0,135;0,068;7,26E-05;0,679;166,008;4;-4,985;0,775;0,619
+3Ga6eKrUFf12ouh9Yw3v2D;Anitta;Downtown;funk pop, funk rj, pagode baiano, pop nacional;Funk;Downtown;E;193456;69;0,18;0,135;0,068;7,26E-05;0,679;166,008;4;-4,985;0,775;0,619
 5pfJsMwoRYKampPay8amX0;Macklemore & Ryan Lewis;Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally);dance pop, pop, pop rap, seattle hip hop;Pop;This Unruly Mess I've Made;Cs;292593;63;0,0916;0,0694;0,291;1,21E-06;0,609;109,725;4;-4,402;0,828;0,707
 4GkkxswcdEt1tkSyiRzgnC;Future;Draco;atl hip hop, rap, southern hip hop, trap;HipHop;FUTURE;Gs;225134;56;0,000668;0,0468;0,31;0;0,456;130,014;4;-7,44;0,804;0,165
 3W3FVHEDetkiRkkGKDmdir;Drake;Draft Day;canadian hip hop, canadian pop, hip hop, rap, toronto rap;Pop;Care Package;Gs;266325;49;0,0322;0,36;0,133;0;0,81;166,084;4;-3,793;0,673;0,564
@@ -2157,7 +2157,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 6w8yBI2vthyN9UnwO4UBWb;Tiago PZK;Entre Nosotros;trap argentino, urbano latino;Rap;Entre Nosotros;F;192352;69;0,494;0,0455;0,137;1,10E-06;0,513;170,064;3;-6,345;0,729;0,789
 4TGwERXRlyQtBdggYTHo6j;Tiago PZK;Entre Nosotros (Remix) [con Nicki Nicole];trap argentino, urbano latino;Rap;Entre Nosotros (Remix) [con Nicki Nicole];F;260000;72;0,401;0,0433;0,373;0;0,438;170,106;3;-5,784;0,7;0,605
 7E1lnnPsrnHslXSWomUkLP;Pharrell Williams;Entrepreneur (feat. JAY-Z);hip hop, pop, pop rap;Pop;Entrepreneur (feat. JAY-Z);C;258959;34;0,318;0,242;0,117;0;0,629;165,984;4;-2,365;0,726;0,73
-3IAfUEeaXRX9s9UdKOJrFI;Anitta;Envolver;funk pop, funk rj, pagode baiano, pop nacional;Pop;Envolver;E;193805;75;0,152;0,0833;0,0914;0,00254;0,736;91,993;4;-5,421;0,812;0,396
+3IAfUEeaXRX9s9UdKOJrFI;Anitta;Envolver;funk pop, funk rj, pagode baiano, pop nacional;Funk;Envolver;E;193805;75;0,152;0,0833;0,0914;0,00254;0,736;91,993;4;-5,421;0,812;0,396
 3xhgrkZuPHxJBHwyBl5sOs;MC Loma e As Gêmeas Lacração;Envolvimento;brega funk, funk carioca;Funk;Envolvimento;As;146602;48;0,542;0,161;0,0341;0;0,881;164,982;4;-4,931;0,85;0,964
 7rvyVWja33WG9R97oeJAjx;Calboy;Envy Me;chicago rap, melodic rap, pop rap, rap, trap, vapor trap, viral rap;Pop;Wildboy;Cs;120133;66;0,234;0,27;0,241;0;0,488;149,042;4;-7,664;0,74;0,584
 5w8wL9IpVlOerzOzOvkjvG;DJ Snake;Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane);dance pop, edm, electronic trap, pop, pop dance, pop rap;Pop;Carte Blanche;D;248053;50;0,0739;0,0387;0,316;4,01E-06;0,726;119,963;4;-4,209;0,785;0,181
@@ -2300,7 +2300,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 4UHyrGQCHu0Orh2utUxbNY;Machine Gun Kelly;fake love don't last (feat. iann dior);ohio hip hop, pop, pop rap;Pop;mainstream sellout;Gs;143204;63;0,0226;0,0577;0,205;0;0,733;146,053;4;-4,878;0,659;0,763
 3wFLWP0FcIqHK1wb1CPthQ;Ariana Grande;fake smile;dance pop, pop;Pop;thank u, next;A;208880;62;0,329;0,372;0,319;0;0,619;83,3;4;-7,412;0,45;0,427
 0pJPdSVti6cTM1Q6xYGmcf;Calvin Harris;Faking It (feat. Kehlani & Lil Yachty);dance pop, edm, electro house, house, pop, progressive house, uk dance;Pop;Funk Wav Bounces Vol.1;A;240093;56;0,319;0,115;0,0715;0;0,589;120,034;4;-4,543;0,776;0,668
-3V7jLMYvvg4BHi4tmDveNc;Anitta;Faking Love (feat. Saweetie);funk pop, funk rj, pagode baiano, pop nacional;Pop;Faking Love (feat. Saweetie);C;148577;55;0,0368;0,121;0,054;0;0,564;133,029;4;-4,779;0,904;0,843
+3V7jLMYvvg4BHi4tmDveNc;Anitta;Faking Love (feat. Saweetie);funk pop, funk rj, pagode baiano, pop nacional;Funk;Faking Love (feat. Saweetie);C;148577;55;0,0368;0,121;0,054;0;0,564;133,029;4;-4,779;0,904;0,843
 6gEOM9IEBzvTdbwNrSkBdC;Gusttavo Lima;Fala Mal de Mim - Ao Vivo;arrocha, sertanejo, sertanejo universitario;Sertanejo;Fala Mal de Mim (Ao Vivo);G;204937;75;0,197;0,0485;0,386;0,000481;0,957;160,005;4;-4,272;0,672;0,895
 58QhkbaAkLFnn7JwAnAato;Eminem;Fall;detroit hip hop, hip hop, rap;HipHop;Kamikaze;Cs;262493;61;0,227;0,295;0,112;0;0,546;182,973;4;-5,716;0,83;0,535
 29zBeRiLVnkDEj7tvmLVOU;Christina Aguilera;Fall In Line (feat. Demi Lovato);dance pop, pop, post-teen pop;Pop;Liberation;A;248544;45;0,209;0,0769;0,277;0;0,631;123,042;3;-4,701;0,39;0,197
@@ -2725,7 +2725,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5UgsZiYk1lkEobuPHmRtWm;One Direction;Girl Almighty;boy band, pop, post-teen pop, talent show;Pop;FOUR (Deluxe);A;201853;60;0,0424;0,0414;0,198;0;0,895;168,941;4;-3,745;0,508;0,495
 0DMVrlMUn01M0IcpDbwgu7;Taylor Swift;Girl At Home (Taylor's Version);pop;Pop;Red (Taylor's Version);F;220520;59;0,00955;0,0326;0,101;1,88E-05;0,736;125,089;4;-6,974;0,691;0,612
 11qh54D0PKkBwelpDxxiEU;Little Big Town;Girl Crush;contemporary country, country, country dawn, country road;Country;Pain Killer;C;193320;65;0,842;0,0302;0,112;0;0,225;173,788;3;-10,22;0,5;0,355
-2plRom0urixt6BE8t7kOhQ;Anitta;Girl From Rio;funk pop, funk rj, pagode baiano, pop nacional;Pop;Girl From Rio;C;194421;54;0,00727;0,0352;0,199;0;0,639;140,059;4;-6,717;0,692;0,733
+2plRom0urixt6BE8t7kOhQ;Anitta;Girl From Rio;funk pop, funk rj, pagode baiano, pop nacional;Funk;Girl From Rio;C;194421;54;0,00727;0,0352;0,199;0;0,639;140,059;4;-6,717;0,692;0,733
 1zLBsSVxETQOfINOLYvT5m;Black Eyed Peas;GIRL LIKE ME;dance pop, pop, pop rap;Pop;TRANSLATION;D;222522;72;0,0206;0,191;0,0655;0,0237;0,485;124,025;4;-8,784;0,965;0,312
 6N9PAf91qP6aJIzT8bVoof;David Bowie;Girl Loves Me;art rock, classic rock, glam rock, permanent wave, rock;Rock;Blackstar;As;291946;39;0,28;0,0536;0,285;0,000222;0,579;137,059;4;-7,633;0,699;0,339
 59bY27SZQ4r25o02vqOhgC;Juice WRLD;Girl Of My Dreams (with SUGA of BTS);chicago rap, melodic rap;Rap;Fighting Demons (Deluxe);A;226149;67;0,194;0,0627;0,13;0;0,771;139,988;4;-6,336;0,603;0,332
@@ -3564,7 +3564,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5qykEZTHAcplCLrynoLRnN;Eminem;In Your Head;detroit hip hop, hip hop, rap;HipHop;Revival;Cs;182640;59;0,00164;0,224;0,389;0;0,778;82,918;4;-5,257;0,647;0,252
 3WEmAizxrtQwXEJQRwCrK1;WSTRN;In2;afroswing, uk hip hop;HipHop;In2;Gs;242121;49;0,342;0,129;0,141;0;0,662;98,368;4;-6,454;0,553;0,561
 2qwn6whaZf7gax7SaqUZSC;Future;Incredible;atl hip hop, rap, southern hip hop, trap;HipHop;HNDRXX;Cs;248049;52;0,0634;0,133;0,1;0;0,438;90,022;4;-6,462;0,79;0,247
-5FOCkGt7bp22nBVfQ4WSIT;Anitta;Indecente;funk pop, funk rj, pagode baiano, pop nacional;Pop;Indecente;G;205187;47;0,16;0,127;0,096;0,000842;0,602;127,997;4;-5,118;0,874;0,587
+5FOCkGt7bp22nBVfQ4WSIT;Anitta;Indecente;funk pop, funk rj, pagode baiano, pop nacional;Funk;Indecente;G;205187;47;0,16;0,127;0,096;0,000842;0,602;127,997;4;-5,118;0,874;0,587
 59s0s39NFWScuHDbHytI14;Reik;Indeciso;latin arena pop, latin pop, mexican pop;Pop;Indeciso;C;217253;65;0,182;0,0453;0,11;0;0,748;94,949;4;-4,902;0,738;0,896
 0jqBo5RYn008f4ZY8kPewW;Logic;Indica Badu;conscious hip hop, dmv rap, hip hop, pop rap, rap;Pop;Bobby Tarantino II;C;260320;58;0,0402;0,116;0,0839;0,000846;0,72;77,011;4;-2,876;0,742;0,97
 4knc1Fp3kbuq8bH2byOvLu;Camilo;Índigo;colombian pop, reggaeton colombiano;Reggaeton;Índigo;C;214933;67;0,00884;0,0342;0,113;3,96E-05;0,779;128,91;4;-6,659;0,748;0,928
@@ -3730,7 +3730,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 2kecdnlyueotEMC8rdNlf6;Lady Gaga;Joanne;art pop, dance pop, pop;Pop;Joanne (Deluxe);G;196906;53;0,146;0,0273;0,0998;0;0,414;149,746;4;-8,453;0,549;0,404
 7m9OqQk4RVRkw9JJdeAw96;XXXTENTACION;Jocelyn Flores;emo rap, miami hip hop;HipHop;17;C;119133;80;0,469;0,242;0,297;4,13E-06;0,391;134,021;4;-9,144;0,872;0,437
 2xUHiyGeGrWmmfv7NbDTWC;Drake;Jodeci Freestyle (feat. J. Cole);canadian hip hop, canadian pop, hip hop, rap, toronto rap;Pop;Care Package;D;254022;49;0,0111;0,268;0,102;0;0,844;88,435;4;-2,834;0,498;0,282
-3MxbRHE1u74SoMNR9iURIZ;MC Bruninho;Jogo do Amor;batidao romantico, brega funk, brega romantico, funk carioca, pop teen brasileiro;Pop;Jogo do Amor;Cs;144039;48;0,212;0,0866;0,071;0;0,52;154,06;4;-6,405;0,758;0,857
+3MxbRHE1u74SoMNR9iURIZ;MC Bruninho;Jogo do Amor;batidao romantico, brega funk, brega romantico, funk carioca, pop teen brasileiro;Funk;Jogo do Amor;Cs;144039;48;0,212;0,0866;0,071;0;0,52;154,06;4;-6,405;0,758;0,857
 3d0VZU6Mf2hdZRHA4zry8S;Lady Gaga;John Wayne;art pop, dance pop, pop;Pop;Joanne (Deluxe);B;174306;56;0,00131;0,0314;0,34;0,00018;0,667;96,954;4;-5,825;0,61;0,51
 2QfiRTz5Yc8DdShCxG1tB2;Chuck Berry;Johnny B. Goode;classic rock, rock, rock-and-roll, rockabilly;Rock;Berry Is On Top;As;161560;72;0,741;0,0743;0,307;6,07E-05;0,803;167,983;4;-9,129;0,534;0,969
 65RWVU6N81CeH65nu52K1U;Aya Nakamura;Jolie nana;basshall, francoton, pop urbaine;Pop;AYA;D;147076;59;0,269;0,272;0,131;0;0,64;92,989;4;-5,908;0,813;0,488
@@ -4513,7 +4513,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 6Et5KimMg3IXwD6lJPGmQw;Alex Rose;Me Fije;reggaeton, reggaeton flow, trap latino, urbano latino;Reggaeton;Me Fije;G;202320;61;0,397;0,0667;0,103;3,36E-05;0,668;172,011;4;-3,997;0,76;0,71
 28GCbKgjlVD9eDmasGbe0T;Bad Bunny;Me Fui de Vacaciones;reggaeton, trap latino, urbano latino;Reggaeton;Un Verano Sin Ti;As;180929;76;0,229;0,0514;0,0942;0,00083;0,645;85,046;4;-5,493;0,714;0,434
 5Xhqh4lwJPtMUTsdBztN1a;Shakira;Me Gusta;colombian pop, dance pop, latin pop;Pop;Me Gusta;Cs;190570;68;0,0559;0,0681;0,157;0,00184;0,696;92,007;4;-5,184;0,775;0,775
-7e1VoRlNumuEkXlITMHKLE;Anitta;Me Gusta (with Cardi B & Myke Towers);funk pop, funk rj, pagode baiano, pop nacional;Pop;Me Gusta (with Cardi B & Myke Towers);Fs;180788;56;0,448;0,082;0,0863;0;0,604;110,075;4;-4,392;0,91;0,807
+7e1VoRlNumuEkXlITMHKLE;Anitta;Me Gusta (with Cardi B & Myke Towers);funk pop, funk rj, pagode baiano, pop nacional;Funk;Me Gusta (with Cardi B & Myke Towers);Fs;180788;56;0,448;0,082;0,0863;0;0,604;110,075;4;-4,392;0,91;0,807
 3jpqMaJREkmVDYlRvW1qWC;Piso 21;Me Llamas;colombian pop, latin pop, reggaeton, reggaeton colombiano, urbano latino;Reggaeton;Me Llamas;G;188472;46;0,139;0,0502;0,0693;0;0,735;93,017;4;-5,34;0,776;0,663
 4ggiDYAkJ7Yk8d5xOr7Xjo;Reik;Me Niego (feat. Ozuna & Wisin);latin arena pop, latin pop, mexican pop;Pop;Ahora;C;221653;68;0,0505;0,0907;0,64;0;0,782;94,023;4;-4,435;0,777;0,773
 6Sq7ltF9Qa7SNFBsV5Cogx;Bad Bunny;Me Porto Bonito;reggaeton, trap latino, urbano latino;Reggaeton;Un Verano Sin Ti;Cs;178567;89;0,0901;0,0817;0,0933;2,68E-05;0,712;92,005;4;-5,105;0,911;0,425
@@ -4528,7 +4528,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 6lX6l7OuA3qrnIRfdsr0dw;Blessd;Medallo;reggaeton, urbano latino;Reggaeton;Hecho En Medellín;E;233453;74;0,568;0,0768;0,663;0,00051;0,7;90,02;4;-4,598;0,787;0,791
 6mfu6jyFgvnXeTPQrYNs8d;Madonna;Medellín (with Maluma);dance pop, pop;Pop;Madame X (Deluxe);Cs;298164;50;0,0596;0,304;0,671;1,92E-05;0,683;91,963;4;-7,091;0,814;0,473
 1dMyIigB6MDsfD3xuG6TbO;Felipe e Rodrigo;Média Boa - Ao Vivo;sertanejo pop;Pop;Média Boa (Ao Vivo);A;148900;78;0,382;0,0657;0,529;0;0,824;118,071;3;-3,675;0,676;0,73
-4R5xvs5X0phd0EYWyGigju;Anitta;Medicina;funk pop, funk rj, pagode baiano, pop nacional;Pop;Medicina;E;141508;51;0,0441;0,0667;0,149;0,0129;0,784;93,96;4;-3,545;0,798;0,653
+4R5xvs5X0phd0EYWyGigju;Anitta;Medicina;funk pop, funk rj, pagode baiano, pop nacional;Funk;Medicina;E;141508;51;0,0441;0,0667;0,149;0,0129;0,784;93,96;4;-3,545;0,798;0,653
 48xNw8YZxvrc3qB5IKaJ8w;The 1975;Medicine;modern alternative rock, modern rock, pop, rock;Rock;Medicine;D;352865;47;0,525;0,0362;0,141;0,336;0,271;67,493;5;-12,651;0,19;0,0517
 3GHtEaicELsTViK08EXEQQ;Bring Me The Horizon;medicine;melodic metalcore, metalcore, rock, uk metalcore;Rock;amo;C;227265;57;0,00393;0,0396;0,0789;0;0,858;97,038;4;-3,3;0,615;0,323
 2Up8QSKRV7WnZxZAQasEUq;Irama;Mediterranea;italian adult pop, italian pop;Pop;Crepe;B;177809;54;0,113;0,0587;0,188;0;0,916;130,013;4;-4,678;0,711;0,79
@@ -4943,7 +4943,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5tH8UbEHc3seBxOlnzvoAs;ZAYN;No Candle No Light (feat. Nicki Minaj);dance pop, pop, post-teen pop, uk pop;Pop;Icarus Falls;F;195026;47;0,0169;0,0496;0,0949;0,000108;0,751;122,138;4;-4,22;0,619;0,46
 06Gyf2pFDVmN5K8XAawG96;Future;No Cap;atl hip hop, rap, southern hip hop, trap;HipHop;SUPER SLIMEY;Cs;144142;50;0,00108;0,107;0,352;0;0,523;147,057;4;-6,578;0,8;0,379
 2OdfQjIJlomZFUBTEDKMre;Twenty One Pilots;No Chances;modern rock, rock;Rock;Scaled And Icy;G;226449;54;0,15;0,0629;0,218;0,0184;0,54;139,984;4;-7,301;0,667;0,0882
-7ARoqP7G8UYW8SyYPyPp7k;Anitta;NO CHÃO NOVINHA;funk pop, funk rj, pagode baiano, pop nacional;Pop;NO CHÃO NOVINHA;G;136901;63;0,06;0,0594;0,375;0,00661;0,806;141,984;4;-3,563;0,703;0,704
+7ARoqP7G8UYW8SyYPyPp7k;Anitta;NO CHÃO NOVINHA;funk pop, funk rj, pagode baiano, pop nacional;Funk;NO CHÃO NOVINHA;G;136901;63;0,06;0,0594;0,375;0,00661;0,806;141,984;4;-3,563;0,703;0,704
 3hd6zLhnTlbJ8PupYt3cAI;Kanye West;No Child Left Behind;chicago rap, rap;Rap;Donda;Cs;178061;60;0,00632;0,0341;0,138;0,792;0,327;135,382;3;-8,059;0,161;0,0815
 156LzfvMNKuXuiot4uzhGD;Metro Boomin;No Complaints (feat. Offset & Drake) (Bonus);rap;Rap;NOT ALL HEROES WEAR CAPES (Deluxe);D;265480;62;0,0709;0,166;0,0599;0,00237;0,572;123,963;4;-8,82;0,914;0,203
 0L6JxnihnHbUu6LzXpntak;Jamule;No Comprendo;german hip hop;HipHop;SOLD;A;176009;38;0,178;0,0794;0,0958;0,000387;0,487;123,013;4;-8,584;0,948;0,298
@@ -5102,7 +5102,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 3drwaFqLSEjqzjNRbjap0R;Capital Bra;Nummer 1;german hip hop;HipHop;Nummer 1;Fs;155000;39;0,542;0,223;0,0632;7,01E-06;0,585;96,016;4;-6,252;0,833;0,663
 2SRVj6ceeIffVEm9NFyRHI;Bonez MC;Nummer unterdrückt;german hip hop, hamburg hip hop;HipHop;Palmen aus Plastik 2;C;208794;55;0,2;0,0881;0,15;0,00124;0,749;139,962;4;-6,296;0,812;0,773
 6NnCWIWV740gP7DQ8kqdIE;(G)I-DLE;Nxde;k-pop, k-pop girl group;K-pop;I love;E;178453;80;0,0413;0,179;0,479;7,81E-06;0,91;135,966;4;-1,948;0,726;0,648
-15YEYgT0kDso9gwOcJFAmV;MC Kevinho;O Bebê;arrocha, funk carioca, funk ostentacao, funk pop;Pop;O Bebê;Fs;178118;49;0,237;0,146;0,262;0;0,746;165,032;4;-3,789;0,81;0,794
+15YEYgT0kDso9gwOcJFAmV;MC Kevinho;O Bebê;arrocha, funk carioca, funk ostentacao, funk pop;Funk;O Bebê;Fs;178118;49;0,237;0,146;0,262;0;0,746;165,032;4;-3,789;0,81;0,794
 2VsCE6ui7N4IRzGIGT7Di8;Tony Bennett;O Christmas Tree;adult standards, easy listening, lounge, vocal jazz;Jazz;A Swingin' Christmas Featuring The Count Basie Big Band;Fs;207253;58;0,949;0,0425;0,109;1,71E-06;0,0982;74,271;4;-14,34;0,571;0,0857
 2MHFnAw5nAjTXnBFO0Y8s9;Elisa;O Forse Sei Tu;italian adult pop, italian pop;Pop;Ritorno Al Futuro / Back To The Future;D;233577;56;0,469;0,0334;0,102;0;0,542;124,19;3;-5,705;0,505;0,137
 3B7FO3kJ5kv3mX7yiaB7sT;Mariah Carey;O Holy Night;dance pop, urban contemporary;Pop;Merry Christmas;E;266933;62;0,367;0,0285;0,154;6,63E-06;0,505;173,977;3;-7,208;0,368;0,192
@@ -5159,7 +5159,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 0F7FA14euOIX8KcbEturGH;Lil Nas X;Old Town Road;lgbtq+ hip hop, pop;Pop;7 EP;Cs;113000;72;0,0578;0,127;0,101;2,23E-06;0,53;135,998;4;-6,112;0,907;0,507
 2YpeDb67231RjR0MgVLzsG;Lil Nas X;Old Town Road - Remix;lgbtq+ hip hop, pop;Pop;7 EP;Fs;157066;74;0,0533;0,102;0,113;0;0,619;136,041;4;-5,56;0,878;0,639
 0XPRGMIQQPFny719O7IPD0;John Newman;Olé;dance pop;Pop;Olé;A;238301;33;0,0333;0,0451;0,126;0;0,759;89,968;4;-4,012;0,732;0,79
-6Q4foUefrAyCt8VxJFML56;MC Kevinho;Olha A Explosão;arrocha, funk carioca, funk ostentacao, funk pop;Pop;Olha A Explosão;Fs;162053;68;0,107;0,112;0,0608;0;0,635;90,008;4;-2,892;0,778;0,379
+6Q4foUefrAyCt8VxJFML56;MC Kevinho;Olha A Explosão;arrocha, funk carioca, funk ostentacao, funk pop;Funk;Olha A Explosão;Fs;162053;68;0,107;0,112;0,0608;0;0,635;90,008;4;-2,892;0,778;0,379
 5dONhl6aXFuN86UBdayF6W;One Direction;Olivia;boy band, pop, post-teen pop, talent show;Pop;Made In The A.M. (Deluxe Edition);Fs;177973;67;0,0438;0,0334;0,166;0;0,681;118,062;4;-5,362;0,64;0,676
 4kuPeLqTPXDkPB2injreCw;Disclosure;Omen;edm, house, pop, uk dance;Pop;Caracal (Deluxe);Gs;230250;58;0,0614;0,125;0,372;0;0,678;106,01;4;-5,224;0,723;0,633
 3kCwyvhvVTyehIzYN2I0nF;Drake;Omertà;canadian hip hop, canadian pop, hip hop, rap, toronto rap;Pop;The Best In The World Pack;Fs;219506;52;0,0337;0,298;0,232;0;0,899;164,119;4;-2,232;0,646;0,685
@@ -5359,7 +5359,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 72g37RoelSnovZakG5MwnF;Mari Fernandez;Parada Louca;arrocha, arrochadeira;Arrocha;Parada Louca;G;179031;68;0,302;0,0524;0,339;0;0,936;166,034;4;-1,322;0,693;0,835
 6qNLO4HzHeVvHxTaCFMXrf;Gzuz;Paradies;deep german hip hop, german hip hop, hamburg hip hop;HipHop;Paradies;A;217496;51;0,197;0,335;0,164;5,36E-06;0,605;159,933;4;-7,874;0,769;0,3
 158ukl5rih76dOEsp0I91H;Jorge & Mateus;Paradigmas;arrocha, sertanejo, sertanejo universitario;Sertanejo;Tudo Em Paz, Vol. 1;Cs;157354;55;0,322;0,126;0,4;0;0,789;157,932;4;-4,103;0,686;0,822
-05rJdH2MRLJ3sQoEUO78qs;Anitta;Paradinha;funk pop, funk rj, pagode baiano, pop nacional;Pop;Paradinha;B;141316;52;0,0117;0,0887;0,0702;0,191;0,775;180,054;4;-5,041;0,695;0,869
+05rJdH2MRLJ3sQoEUO78qs;Anitta;Paradinha;funk pop, funk rj, pagode baiano, pop nacional;Funk;Paradinha;B;141316;52;0,0117;0,0887;0,0702;0,191;0,775;180,054;4;-5,041;0,695;0,869
 0Rx0DJI556Ix5gBny6EWmn;Bazzi;Paradise;dance pop, electropop, pop;Pop;Soul Searching;B;169038;69;0,0828;0,0479;0,113;0;0,644;122,061;4;-6,273;0,844;0,591
 38zwkK6TtTjIW9tpYBfZ3D;George Ezra;Paradise;folk-pop, neo-singer-songwriter;K-pop;Staying at Tamara's;B;222044;64;0,209;0,0393;0,21;0;0,881;138,03;4;-3,537;0,642;0,913
 6nek1Nin9q48AVZcWs9e9D;Coldplay;Paradise;permanent wave, pop;Pop;Mylo Xyloto;F;278719;79;0,0509;0,0268;0,0833;8,75E-05;0,585;139,631;4;-6,761;0,449;0,212
@@ -5547,7 +5547,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 0So2sgVa8aJiARPl2P29u2;SALES;Pope Is a Rockstar;orlando indie;Indie;SALES LP;E;187333;68;0,85;0,0287;0,107;0,243;0,446;90,024;4;-8,958;0,725;0,311
 5f0TOjFP3c96TFHzKnx5ri;Gambi;POPOPOP;french hip hop, pop urbaine, rap francais;Pop;LA VIE EST BELLE;C;155573;56;0,0348;0,329;0,125;3,76E-05;0,643;129,979;4;-6,015;0,839;0,45
 6EDO9iiTtwNv6waLwa1UUq;DJ Khaled;POPSTAR (feat. Drake);hip hop, miami hip hop, pop rap, rap, southern hip hop, trap;Pop;POPSTAR (feat. Drake);F;200221;71;0,057;0,261;0,134;0;0,56;163,071;4;-4,818;0,8;0,45
-5qm2otRZaeZaqdLVVohUjq;Anitta;Poquito;funk pop, funk rj, pagode baiano, pop nacional;Pop;Kisses;C;175670;41;0,509;0,126;0,309;0;0,852;144,837;4;-4,03;0,701;0,607
+5qm2otRZaeZaqdLVVohUjq;Anitta;Poquito;funk pop, funk rj, pagode baiano, pop nacional;Funk;Kisses;C;175670;41;0,509;0,126;0,309;0;0,852;144,837;4;-4,03;0,701;0,607
 5qN1G8fSHq4Sv5FRoOkNGu;Paulo Londra;Por Eso Vine;argentine hip hop, trap argentino, trap latino, urbano latino;HipHop;Homerun;Gs;178534;66;0,233;0,433;0,0905;0;0,646;188,009;4;-5,048;0,76;0,625
 2dgIWrpbXdrUnDVp976UhO;Pitbull;Por Favor;dance pop, miami hip hop, pop, pop rap;Pop;Por Favor;D;199066;34;0,209;0,0926;0,0625;2,64E-06;0,761;98,025;4;-4,63;0,752;0,697
 2DAULesb1U4Qz4FSTZpEUJ;Cali Y El Dandee;Por Fin Te Encontré;champeta, colombian pop, electro latino, latin pop, reggaeton, reggaeton colombiano, urbano latino;Reggaeton;Por Fin Te Encontré;B;250836;66;0,0492;0,213;0,193;0;0,821;179,968;4;-3,679;0,645;0,844
@@ -5738,7 +5738,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 0v2LUO8oTHnkjQ8MmKuXyk;Ariana Grande;raindrops (an angel cried);dance pop, pop;Pop;Sweetener;Cs;37640;57;0,942;0,0497;0,188;0;0,231;168,685;5;-6,217;0,336;0,429
 6PjitpdnGluMNLv0VeCVe5;SNBRN;Raindrops (feat. Kerli) - Radio Edit;bass house, deep groove house, edm, electro house, house, pop dance, pop edm, progressive house, tropical house, vapor twitch;Pop;Raindrops (feat. Kerli) [Radio Edit];F;203048;30;0,111;0,0301;0,0498;0,0149;0,777;123,035;4;-5,464;0,663;0,238
 1pacwLXyRO47ka0v6LTIiY;Metro Boomin;Raindrops (Insane) [with Travis Scott];rap;Rap;HEROES & VILLAINS;G;188586;77;0,103;0,0433;0,343;0;0,539;111,988;4;-5,974;0,796;0,123
-3vu864xi5Xis9VfOsJpmXu;LUDMILLA;Rainha da Favela;funk carioca, funk pop, funk rj, pagode baiano, pop nacional;Pop;Rainha da Favela;C;160904;55;0,23;0,0438;0,0889;0,00468;0,67;135,064;4;-3,839;0,867;0,891
+3vu864xi5Xis9VfOsJpmXu;LUDMILLA;Rainha da Favela;funk carioca, funk pop, funk rj, pagode baiano, pop nacional;Funk;Rainha da Favela;C;160904;55;0,23;0,0438;0,0889;0,00468;0,67;135,064;4;-3,839;0,867;0,891
 3Ex5RFJRUdpHcDOLXJOVLy;Kesha;Raising Hell (feat. Big Freedia);dance pop, pop, post-teen pop;Pop;Raising Hell (feat. Big Freedia);Cs;169680;48;0,00134;0,132;0,0692;6,77E-05;0,869;114,991;4;-4,689;0,676;0,271
 4knL4iPxPOZjQzTUlELGSY;Yo Gotti;Rake It Up (feat. Nicki Minaj);dirty south rap, gangster rap, hip hop, memphis hip hop, pop rap, rap, southern hip hop, tennessee hip hop, trap, viral rap;Pop;I Still Am;Cs;276333;63;0,022;0,344;0,137;0;0,444;149,953;4;-8,126;0,91;0,53
 4DHDIdeayp8xvlyg22wREO;Natti Natasha;Ram Pam Pam;latin hip hop, latin pop, rap latina, reggaeton, urbano latino;Reggaeton;Ram Pam Pam;F;200785;62;0,305;0,0777;0,278;0;0,813;97,018;4;-2,749;0,908;0,924
@@ -6479,7 +6479,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 2RJ1fg4qf2vgZKifTa4HgA;RBD;Sólo Quédate En Silencio;latin pop;Pop;Rebelde;G;219520;71;0,203;0,0313;0,0478;0;0,775;184,089;4;-4,838;0,464;0,672
 1c0hsvHLELX6y8qymnpLKL;Lunay;Soltera - Remix;latin hip hop, latin pop, reggaeton, reggaeton flow, trap latino, urbano latino;Reggaeton;Soltera (Remix);F;266086;70;0,361;0,0432;0,437;0;0,783;92,01;4;-4,271;0,795;0,799
 1Bqxj0aH5KewYHKUg1IdrF;G-Eazy;Some Kind Of Drug (feat. Marc E. Bassy);hip hop, indie pop rap, oakland hip hop, pop, pop rap, rap;Pop;When It's Dark Out;C;222466;58;0,0705;0,47;0,0729;0;0,525;130,271;4;-8,968;0,634;0,49
-2qD7VoDYcrAPY0cVEfpsR5;Anitta;Some que ele vem atrás;funk pop, funk rj, pagode baiano, pop nacional;Pop;Some que ele vem atrás;C;194771;54;0,0748;0,17;0,38;0;0,795;180,043;4;-5,536;0,648;0,598
+2qD7VoDYcrAPY0cVEfpsR5;Anitta;Some que ele vem atrás;funk pop, funk rj, pagode baiano, pop nacional;Funk;Some que ele vem atrás;C;194771;54;0,0748;0,17;0,38;0;0,795;180,043;4;-5,536;0,648;0,598
 7C1trmcQQ5n5RNy4l6ziCv;Nea;Some Say - Felix Jaehn Remix;scandipop;Pop;Some Say (Felix Jaehn Remix);Fs;186878;66;0,406;0,0397;0,174;0;0,7;120,03;4;-5,591;0,682;0,637
 7zxRMhXxJMQCeDDg0rKAVo;NAV;Some Way;canadian hip hop, canadian trap, hip hop, melodic rap, rap, toronto rap, trap;HipHop;NAV;C;179773;71;0,101;0,351;0,0919;0;0,715;154,962;4;-6,103;0,744;0,34
 0fTiDOXRNEN0lUeYGoSHml;The Chainsmokers;Somebody;dance pop, edm, electropop, pop, pop dance, tropical house;Pop;Sick Boy;As;221986;58;0,192;0,0493;0,102;0;0,63;203,443;4;-7,019;0,32;0,323
@@ -6834,7 +6834,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 0gO3E51A3fqp0ypJ26QbVP;Lil Yachty;T.D (Lil Yachty & Tierra Whack feat. A$AP Rocky & Tyler, The Creator);atl hip hop, melodic rap, rap, trap, viral rap;HipHop;Lil Boat 3;As;232838;55;0,156;0,347;0,605;0;0,632;124,603;4;-6,083;0,784;0,746
 3dPvQLKl42dMYWV4LWRTLK;Os Barões Da Pisadinha;Tá Rocheda;arrocha, forro, piseiro;Forro;As Melhores 2018;Fs;203075;61;0,589;0,0476;0,0991;7,71E-06;0,886;172,013;4;-6,68;0,775;0,939
 7kuRvjpeUcn6qNV9IBXC2C;Cauty;Ta To Gucci (Remix);perreo, reggaeton, reggaeton flow, trap latino, urbano latino;Reggaeton;Cauty VS Young Cauty;Cs;304859;56;0,383;0,378;0,103;0,000112;0,648;187,991;4;-6,405;0,73;0,675
-6etab3UBCo5GOTMZqUvRka;MC Kevinho;Ta Tum Tum;arrocha, funk carioca, funk ostentacao, funk pop;Pop;Ta Tum Tum;Cs;164157;50;0,26;0,136;0,0931;2,85E-06;0,683;174,152;4;-7,094;0,746;0,748
+6etab3UBCo5GOTMZqUvRka;MC Kevinho;Ta Tum Tum;arrocha, funk carioca, funk ostentacao, funk pop;Funk;Ta Tum Tum;Cs;164157;50;0,26;0,136;0,0931;2,85E-06;0,683;174,152;4;-7,094;0,746;0,748
 2b1yiFEFZYuvlBnClvNJHP;Migos;Taco Tuesday;atl hip hop, hip hop, pop rap, rap, trap;Pop;Taco Tuesday;Cs;96563;53;0,000515;0,154;0,135;0;0,65;129,007;4;-7,071;0,945;0,804
 0Be7sopyKMv8Y8npsUkax2;Sebastian Yatra;Tacones Rojos;colombian pop, latin pop, reggaeton colombiano;Reggaeton;Tacones Rojos;B;189320;75;0,0824;0,0348;0,142;0;0,856;123,031;4;-3,517;0,748;0,927
 1b0aDgrG775i4sPQgJGmkU;Keisya Levronka;Tak Ingin Usai;indonesian pop;Pop;Tak Ingin Usai;C;278500;75;0,815;0,0266;0,114;0,000187;0,398;129,772;3;-7,712;0,49;0,136
@@ -6948,7 +6948,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 42fw0rxRO2xbesF6mJfd4Y;Dan + Shay;Tequila;contemporary country, country, country road, pop;Pop;Dan + Shay;B;196746;66;0,0312;0,0281;0,132;0;0,581;86,016;4;-5,731;0,489;0,494
 30KctD1WsHKTIYczXjip5a;Kid Cudi;Tequila Shots;hip hop, ohio hip hop, rap;HipHop;Man On The Moon III: The Chosen;F;193293;68;0,084;0,0531;0,527;5,04E-05;0,556;90,494;4;-7,214;0,712;0,22
 1K8AtBJXcdq5mywMnZuARP;Gusttavo Lima;Termina Comigo Antes;arrocha, sertanejo, sertanejo universitario;Sertanejo;Termina Comigo Antes;C;187381;71;0,586;0,0368;0,661;0;0,713;110,414;4;-4,313;0,541;0,285
-7G2XZhDNHo7SSDWSVxC0UT;Anitta;Terremoto;funk pop, funk rj, pagode baiano, pop nacional;Pop;Terremoto;Gs;146276;52;0,329;0,0898;0,277;0;0,805;95,045;4;-5,836;0,891;0,967
+7G2XZhDNHo7SSDWSVxC0UT;Anitta;Terremoto;funk pop, funk rj, pagode baiano, pop nacional;Funk;Terremoto;Gs;146276;52;0,329;0,0898;0,277;0;0,805;95,045;4;-5,836;0,891;0,967
 6UKb1qcw5jqmoVeln2i3ZL;Childish Gambino;Terrified;atl hip hop, hip hop, pop, rap;Pop;"""Awaken, My Love!""";C;255466;56;0,406;0,0522;0,0985;0,471;0,391;139,574;4;-11,508;0,482;0,107
 093RgZ7RXHZwIrxZhZYX4Q;Capo Plaza;Tesla (feat. Sfera Ebbasta & DrefGold);italian hip hop, trap italiana;HipHop;20;B;185146;59;0,316;0,0618;0,0961;0;0,626;140,05;4;-5,14;0,854;0,377
 3eZYOQO4UzKrUDYDghtnFw;Ariana Grande;test drive;dance pop, pop;Pop;Positions (Deluxe);A;122174;60;0,0251;0,0454;0,124;0;0,708;115,036;4;-4,943;0,698;0,322
@@ -7257,7 +7257,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5LciLoxa1gK70yIUeoHgRx;Bomba Estéreo;To My Love - Tainy Remix;cumbia, latin alternative, pop electronico, tropical alternativo;Pop;Amanecer (Remixed);G;251773;63;0,129;0,0395;0,0851;0,00847;0,59;99,996;4;-4,292;0,764;0,281
 5vUnjhBzRJJIAOJPde6zDx;Jnr Choi;TO THE MOON;gambian hip hop;HipHop;TO THE MOON;D;152137;71;0,0451;0,346;0,111;0,00758;0,65;144,047;4;-11,814;0,745;0,386
 4lN533ecUjcnqTkdxaYoP2;Melendi;Tocado y hundido;spanish pop, spanish pop rock;Rock;Un alumno más;B;211586;54;0,136;0,0651;0,0901;0,0074;0,919;102,052;4;-3,737;0,693;0,729
-4cno0k9jDEFpLAQyHNjqVx;Anitta;Tócame (feat. Arcangel & De La Ghetto);funk pop, funk rj, pagode baiano, pop nacional;Pop;Tócame (feat. Arcangel & De La Ghetto);Cs;166264;51;0,0205;0,172;0,22;8,28E-05;0,74;100,057;4;-5,374;0,785;0,746
+4cno0k9jDEFpLAQyHNjqVx;Anitta;Tócame (feat. Arcangel & De La Ghetto);funk pop, funk rj, pagode baiano, pop nacional;Funk;Tócame (feat. Arcangel & De La Ghetto);Cs;166264;51;0,0205;0,172;0,22;8,28E-05;0,74;100,057;4;-5,374;0,785;0,746
 47ZS1OjnJpJVfGN9yHXfMn;Alex Rose;Toda Remix - Remix;reggaeton, reggaeton flow, trap latino, urbano latino;Reggaeton;Toda Remix;F;367680;67;0,161;0,131;0,0672;0;0,451;80,04;4;-7,222;0,512;0,368
 2JoJrsEV15OzbijS47lids;Taylor Swift;Today Was A Fairytale (Taylor’s Version);pop;Pop;Fearless (Taylor's Version);G;241822;58;0,0135;0,0409;0,296;0;0,779;158,162;4;-5,025;0,482;0,328
 4fSIb4hdOQ151TILNsSEaF;Rauw Alejandro;Todo De Ti;puerto rican pop, trap latino, urbano latino;Pop;Todo De Ti;Ds;199604;77;0,31;0,0506;0,0932;0,000163;0,718;127,949;4;-3,605;0,78;0,342
@@ -7546,7 +7546,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5Qs6gTnyrG0KGYbuCzoK5k;Migos;Vaccine;atl hip hop, hip hop, pop rap, rap, trap;Pop;Culture III;E;221958;49;0,109;0,0595;0,0988;0;0,67;124,036;4;-4,806;0,845;0,504
 4lHBn99hzTKCqmEGoZaZcL;Logic;Vaccine;conscious hip hop, dmv rap, hip hop, pop rap, rap;Pop;Bobby Tarantino III;F;121558;51;0,043;0,0521;0,108;0;0,612;149,922;4;-4,068;0,785;0,583
 2wSCalnGOnXdAJC0Fn8OUY;George Henrique & Rodrigo;Vai Lá Em Casa Hoje;arrocha, sertanejo, sertanejo pop, sertanejo universitario;Pop;Vai Lá Em Casa Hoje;Gs;191523;74;0,519;0,283;0,96;0;0,84;157,612;4;-3,637;0,456;0,589
-6u0EAxf1OJTLS7CvInuNd7;Anitta;Vai malandra (feat. Tropkillaz & DJ Yuri Martins);funk pop, funk rj, pagode baiano, pop nacional;Pop;Vai malandra (feat. Tropkillaz & DJ Yuri Martins);D;201532;62;0,0227;0,152;0,294;4,52E-05;0,55;129,924;4;-5,464;0,876;0,557
+6u0EAxf1OJTLS7CvInuNd7;Anitta;Vai malandra (feat. Tropkillaz & DJ Yuri Martins);funk pop, funk rj, pagode baiano, pop nacional;Funk;Vai malandra (feat. Tropkillaz & DJ Yuri Martins);D;201532;62;0,0227;0,152;0,294;4,52E-05;0,55;129,924;4;-5,464;0,876;0,557
 48zFZh27QU5qsrBjn4C2FA;Ozuna;Vaina Loca;puerto rican pop, reggaeton, trap latino, urbano latino;Reggaeton;Aura;Fs;176133;71;0,315;0,0752;0,203;0;0,805;93,982;4;-4,249;0,754;0,555
 4gv9eyEf7cXViNTBXS2g5C;Daddy Yankee;Vaivén;latin hip hop, reggaeton, urbano latino;Reggaeton;Vaivén;As;224333;52;0,313;0,0415;0,0856;0,0253;0,894;105,962;4;-2,482;0,768;0,737
 19hh7DkfRBrpRGYfKlw7jb;5 Seconds of Summer;Valentine;boy band, dance pop, pop, post-teen pop;Pop;Youngblood (Deluxe);Cs;196628;57;0,0601;0,0374;0,0859;1,07E-05;0,767;94,007;4;-2,907;0,746;0,773
@@ -7562,7 +7562,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 2jkIbZ43eH3rM1yro2Ojzh;Gemitaiz;Veleno 7;italian hip hop;HipHop;Scatola Nera;B;173960;54;0,163;0,0591;0,351;2,57E-05;0,823;133,025;4;-6,731;0,794;0,334
 63SHcJzckFykS8faA5zojY;MC Ingryd;Vem Me Satisfazer;funk 150 bpm;Funk;Vem Me Satisfazer;Gs;188388;53;0,596;0,335;0,108;0;0,561;99,864;3;-5,703;0,862;0,541
 1DobIUlNNi4tUvx54L80rE;RAF Camora;Vendetta;german hip hop;HipHop;ZENIT;F;155677;46;0,0364;0,0367;0,123;0,000616;0,873;123,095;4;-5,991;0,839;0,674
-1KFN3kB4hc6r7ILpifFsqf;Anitta;Veneno;funk pop, funk rj, pagode baiano, pop nacional;Pop;Solo;E;158004;53;0,046;0,107;0,067;3,39E-06;0,768;89,917;4;-5,074;0,792;0,295
+1KFN3kB4hc6r7ILpifFsqf;Anitta;Veneno;funk pop, funk rj, pagode baiano, pop nacional;Funk;Solo;E;158004;53;0,046;0,107;0,067;3,39E-06;0,768;89,917;4;-5,074;0,792;0,295
 3BYIzNZ3t9lRQCACXSMLrT;Lil Uzi Vert;Venetia;melodic rap, philly rap, rap, trap;Rap;Eternal Atake;A;188800;59;0,162;0,175;0,148;0;0,757;142,933;4;-4,139;0,775;0,562
 3hwQhakFwm9soLEBnSDH17;Lana Del Rey;Venice Bitch;art pop, pop;Pop;Norman Fucking Rockwell!;A;577199;66;0,913;0,0294;0,099;0,177;0,286;77,826;4;-13,031;0,368;0,312
 4b3rGL8LDSkbARUUA20136;Stray Kids;VENOM;k-pop, k-pop boy group;K-pop;ODDINARY;A;194840;66;0,11;0,339;0,211;0;0,807;136,979;4;-3,354;0,812;0,4
@@ -7572,7 +7572,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 5PSkF3QpVMlAx8U5Inxj39;Mc Jacaré;Vento Forte;arrochadeira, funk 150 bpm, funk carioca, funk mtg, funk rj, trap funk;Funk;Vento Forte;Ds;123711;74;0,246;0,131;0,31;0,000827;0,78;130,048;4;-4,158;0,86;0,801
 7IPKXYU2rTMnrLW5IZ7ZI5;Dave;Verdansk;uk hip hop;HipHop;We're All Alone In This Together;D;182285;65;0,28;0,312;0,145;0;0,502;117,078;4;-8,605;0,961;0,536
 3HTbI3yUJQw3fP0Po8qLcD;J Balvin;Verde;reggaeton, reggaeton colombiano, urbano latino;Reggaeton;Colores;Gs;142546;54;0,0381;0,0516;0,0917;0,473;0,738;94,995;4;-4,295;0,828;0,818
-2RMOwSvOGQyy985Vx4VSGQ;LUDMILLA;Verdinha;funk carioca, funk pop, funk rj, pagode baiano, pop nacional;Pop;Verdinha;Gs;160395;50;0,345;0,124;0,115;5,21E-05;0,954;137,995;4;-3,656;0,845;0,63
+2RMOwSvOGQyy985Vx4VSGQ;LUDMILLA;Verdinha;funk carioca, funk pop, funk rj, pagode baiano, pop nacional;Funk;Verdinha;Gs;160395;50;0,345;0,124;0,115;5,21E-05;0,954;137,995;4;-3,656;0,845;0,63
 3bWLBVZz9Vur3OLy05SpfF;Owl City;Verge;indietronica, pop, pop rock;Rock;Mobile Orchestra;D;213026;51;0,000181;0,0333;0,114;1,17E-06;0,744;127,977;4;-6,892;0,546;0,206
 1O1EqgvgRyj1ejZPUxI0UX;Ninho;Vérité;french hip hop, pop urbaine;Pop;Jefe;Fs;199960;64;0,423;0,153;0,116;7,74E-05;0,509;157,022;4;-9,356;0,721;0,317
 0C6bsQq58Ue1XfL5PKTO6D;Gzuz;Verkackt;deep german hip hop, german hip hop, hamburg hip hop;HipHop;Gzuz;B;136974;49;0,0509;0,302;0,149;0;0,805;92,735;4;-5,896;0,774;0,261
@@ -8171,7 +8171,7 @@ id;artista;musica;generos;genero_principal;album;key;duracao;popularidade;acusti
 776AftMmFFAWUIEAb3lHhw;Måneskin;ZITTI E BUONI;indie rock italiano, italian pop;Rock;Teatro d'ira - Vol. I;E;194786;71;0,00138;0,0669;0,424;0;0,939;102,999;4;-3,115;0,625;0,644
 7EZC6E7UjZe63f1jRmkWxt;The Cranberries;Zombie;irish rock, pop rock;Rock;No Need To Argue (The Complete Sessions 1994-1995);G;306440;78;0,0158;0,035;0,367;0,00591;0,649;166,915;4;-8,994;0,309;0,312
 5jSfKTSGeRp8ir8qaobdcJ;Childish Gambino;Zombies;atl hip hop, hip hop, pop, rap;Pop;"""Awaken, My Love!""";C;281813;52;0,524;0,0962;0,0684;0,000832;0,406;80,015;4;-12,195;0,717;0,462
-1jHgfC8T5KxUyC5Ldw6lk9;Leo Santana;Zona De Perigo;arrocha, axe, funk carioca, pagode baiano, pop nacional;Pop;Zona De Perigo;F;142151;81;0,748;0,0349;0,35;1,66E-05;0,767;135,06;4;-5,612;0,805;0,97
+1jHgfC8T5KxUyC5Ldw6lk9;Leo Santana;Zona De Perigo;arrocha, axe, funk carioca, pagode baiano, pop nacional;Arrocha;Zona De Perigo;F;142151;81;0,748;0,0349;0,35;1,66E-05;0,767;135,06;4;-5,612;0,805;0,97
 4pN4uE4g6srE6376NDwMJP;Daddy Yankee;ZONA DEL PERREO;latin hip hop, reggaeton, urbano latino;Reggaeton;LEGENDADDY;C;191920;55;0,0905;0,0858;0,0861;0,011;0,838;91,986;4;-3,23;0,803;0,637
 3Ddny34bFoYBb8dIGq5lwp;Lil Tjay;Zoo York (feat. Fivio Foreign & Pop Smoke);brooklyn drill, melodic rap, nyc rap;Rap;State of Emergency;Fs;214825;62;0,0352;0,379;0,106;8,81E-06;0,569;92,466;5;-6,084;0,565;0,303
 4IaxDf2FixiQXq0mW7key9;Jessi;ZOOM;k-pop;K-pop;ZOOM;Fs;174840;69;0,00942;0,158;0,126;0;0,6;100,012;4;-6,064;0,874;0,457
